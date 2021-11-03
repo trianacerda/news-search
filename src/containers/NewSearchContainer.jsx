@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
+import { fetchNewsArticles } from '../services/NewsApi';
 
 class NewsSearchContainer extends Component {
   state = {
     loading: true,
   };
 
-  // componentDidMount() {
-  //   //fetch articles
-  //   this.setSet({ loading: false });
-  // }
+  async componentDidMount() {
+    await fetchNewsArticles();
+    this.setSet({ loading: false });
+  }
 
   render() {
     const { loading } = this.state;
