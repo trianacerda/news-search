@@ -1,23 +1,24 @@
 import React, { Component } from 'react';
 import { fetchNewsArticles } from '../services/NewsApi';
+import ArticleList from '../components/articles/ArticleList';
 
 class NewsSearchContainer extends Component {
   state = {
     loading: true,
+    articles: [],
+    title: '',
   };
 
   async componentDidMount() {
-    await fetchNewsArticles();
-    this.setSet({ loading: false });
+    const articles = await fetchNewsArticles();
+    this.setState({ articles, loading: false });
   }
 
   render() {
-    const { loading } = this.state;
+    const { loading, articles, title } = this.state;
 
     return (
-      <>
-        {loading ? <h1>Loading...</h1> : <Article title author description />}
-      </>
+      <>{loading ? <h1>Loading...</h1> : <ArticleList articles={articles} />}</>
     );
   }
 }
