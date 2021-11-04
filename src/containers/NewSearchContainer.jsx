@@ -15,6 +15,17 @@ class NewsSearchContainer extends Component {
     this.setState({ articles, loading: false });
   }
 
+  handleTitleChange = (e) => {
+    this.setState({ title: e.target.value });
+  };
+
+  handleSubmit = async (e) => {
+    e.preventDefault();
+    this.setState({ loading: true });
+    const articles = await fetchQueryArticles();
+    this.setState({ articles, loading: false });
+  };
+
   render() {
     const { loading, articles, title } = this.state;
 
