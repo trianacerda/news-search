@@ -22,7 +22,7 @@ class NewsSearchContainer extends Component {
   handleSubmit = async (e) => {
     e.preventDefault();
     this.setState({ loading: true });
-    const articles = await fetchQueryArticles();
+    const articles = await fetchNewsArticles(this.state.title);
     this.setState({ articles, loading: false });
   };
 

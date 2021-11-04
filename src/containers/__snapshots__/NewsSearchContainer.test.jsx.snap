@@ -7,178 +7,45 @@ exports[`News Search Testing should display a list of articles 1`] = `
   <li>
     <figure>
       <figcaption>
-        Bitcoin hits strongest level since May
-        noreply@blogger.com (Unknown)
-        &lt;ul&gt;&lt;li&gt;Bitcoin, in terms of market value, rose 4.6% to $53,859.6.&lt;/li&gt;&lt;li&gt;It passed $50,000 mark for first time in four weeks on Tuesday. &lt;/li&gt;&lt;li&gt;Bitcoin fell below $50,000 in early September.&lt;/li&gt;&lt;/ul&gt;Bitcoin hit its highest level since mid-May on Wednesda…
+        Facebook sues programmer who allegedly scraped data for 178 million users
+        Jon Fingas
+        Facebook is taking legal action in response to another large-scale data heist. According to The Record, the social network has sued Ukraine national Alexander Solonchenko for allegedly scraping data for more than 178 million users. Solonchenko reportedly expl…
       </figcaption>
     </figure>
   </li>
   <li>
     <figure>
       <figcaption>
-        JPMorgan CEO Says Bitcoin Has No Intrinsic Value After Claiming That Its Price Could Rise 10X
-        noreply@blogger.com (Unknown)
-        JPMorgan CEO Jamie Dimon is still not a Bitcoin fan despite rapid price appreciation   from U.Today https://ift.tt/3iyi5nR https://ift.tt/eA...
+        Yoko Taro Foresees the End of Video Games As We Know Them
+        Joshua Khan
+        The mind behind iconic titles like 'Nier: Automata' and 'Drakengard' tells WIRED about his inspirations—and how AI plays a role in the future of game design.
       </figcaption>
     </figure>
   </li>
   <li>
     <figure>
       <figcaption>
-        BTC, DOGE, and SHIBA Price Analysis for October 6
-        noreply@blogger.com (Unknown)
-        How high are the chances of Bitcoin sustaining its gains and pushing altcoins higher?   from U.Today https://ift.tt/3BkD5px https://ift.tt/e...
+        How Googlers are making unseen disability visible at work
+        Sneha SrinivasanProgram Manager, Google India
+        Five years ago, I discovered that I had left temporal epilepsy, a condition that causes unprovoked seizures. To manage it, I was prescribed medication. While the medication controls the brain activity, the downside was experiencing fatigue, long sleep cycles,…
       </figcaption>
     </figure>
   </li>
   <li>
     <figure>
       <figcaption>
-        Who Bought $1.6B in Bitcoin Wednesday, and Why?
-        noreply@blogger.com (Unknown)
-        last week the cryptocurrency market persistently asked the gnawing and annoying question, “Why?”
-Specifically, why did someone make a massive purchase of $1.6 billion worth of bitcoin on Wednesday in a couple of minutes?
-While many see this huge buy as a si…
+        限时优惠：亚马逊 Chromebook 特价，最低七折
+        Eric Chan
+        Chromebook 的低價、易用、快速，是不少低預算但卻又有一定要求的用戶，尤其是學生的歡迎。Lenovo 的熱門機型 Chromebook Flex 5 13 吋，在今天就來一個限時優惠！
       </figcaption>
     </figure>
   </li>
   <li>
     <figure>
       <figcaption>
-        Bitcoin Miners Are Gobbling Up U.S. Energy
-        Molly Taft
-        There’s a big new presence slurping up power from the U.S. grid, and it’s growing: bitcoin miners. New research shows that the U.S. has overtaken China as the top global destination for bitcoin mining and energy use is skyrocketing as a result.Read more...
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Mining Bitcoin Using Nuclear Power May Be Fine, Actually
-        Molly Taft
-        Last week, the Wall Street Journal ran a piece on three recent nuclear-bitcoin deals that may signal a growing trend in the industry. The Journal piece reflects a small but growing sense of excitement expressed by some crypto fans—including Miami mayor and bi…
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Roughly One-Third of Bitcoin Is Controlled by a Small Cabal of Whales, According to New Study
-        Tom McKay
-        For all the talk of democratizing finance, the vast majority of Bitcoin continues to be owned by a relative handful of investors.Read more...
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        SEC Chair Dodges Question About Regulatory Status of Bitcoin and Ether
-        noreply@blogger.com (Unknown)
-        The SEC boss remains mum about the regulatory status of the two largest cryptocurrenciesfrom U.Today https://ift.tt/3Af9H2O https://ift.tt/eA8V8J
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        IMF Head Says Central Bank Digital Currencies Are Reliable, Hard to Think of Bitcoin as Money
-        noreply@blogger.com (Unknown)
-        Digital currencies backed by central banks are the most reliable form of digital money, according to IMF managing director Kristalina Georgieva. At the same time, to think of cryptocurrencies such as bitcoin as money is difficult, believes the chief executive…
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Planned
-        Whitney Kimball
-        A There Will Be Blood-style drama unfolds in Canada, where a Bitcoin mining operation illegally tapped an unused natural gas well near a wealthy neighborhood in Alberta. The company Link Global might have gotten away with pilfering gas, if not for noise compl…
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Bitcoin edges off all-time high but momentum for more gains this year seen intact - Reuters
-        Bitcoin fell slightly in Asian hours on Thursday, a day after marking an all-time high on optimism around the launch of the first U.S. bitcoin futures ETF.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Riding the crypto rollercoaster: Bitcoin nears record high - Reuters
-        Bitcoin is on the cusp of an all-time high, its latest rally fuelled by the launch of the first U.S. bitcoin futures exchange-traded fund that investors think could make the cryptocurrency accessible for swathes of new investors. &lt;a href="/technology/bitcoin-…
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        The SEC could approve as many as 4 bitcoin futures ETFs in October
-        ilee@insider.com (Isabelle Lee)
-        Unlike bitcoin ETFs, SEC Chair Gary Gensler has expressed more openness towards bitcoin futures ETF.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Bitcoin nears record high ahead of futures ETF listing - Reuters
-        Bitcoin hit a six-month high and was within striking distance of a record on Tuesday as traders bet an anticipated listing of a futures-based U.S. exchange traded fund could herald investment flows into bitcoin and cryptocurrency assets.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Bitcoin sits below all-time high after U.S. ETF debut - Reuters
-        Bitcoin  hovered below record levels on Wednesday, the day after the first U.S. bitcoin futures-based exchange-traded fund (ETF) began trading, a development that market participants say is likely to drive investment into the digital asset.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Bitcoin tops $67,000 in record high - Reuters.com
-        Reuters Editorial
-        Bitcoin climbed to a record high on Wednesday amid new interest as the first U.S. bitcoin futures-based exchange-traded funds come to market.  Conway G. Gittens has more.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        Bitcoin nears record high ahead of futures ETF listing - Reuters
-        Reuters Staff
-        Bitcoin hit a six-month high and was within striking distance of a record on Tuesday as traders bet an anticipated listing of a futures-based U.S. exchange traded fund could herald investment flows into bitcoin and cryptocurrency assets.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        The first-ever bitcoin ETF will start trading on Tuesday
-        insider@insider.com (Carla Mozée)
-        The arrival of the bitcoin-futures ETF comes as bitcoin this year has moved above $1 trillion in market capitalization.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        SEC punts on approving a spot bitcoin ETF again, pushing decision on Valkyrie's fund to 2022
-        insider@insider.com (Carla Mozée)
-        While investors wait for word on a spot bitcoin ETF, the SEC has let bitcoin futures ETFs launch.
-      </figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <figcaption>
-        ANALYSIS-Bitcoin futures highlight some pitfalls for new ETFs - Reuters
-        Gertrude Chavez-Dreyfuss
-        ANALYSIS-Bitcoin futures highlight some pitfalls for new ETFs  Reuters
+        Matthew McConaughey, who's called himself a 'folk singin', philosopher, poet-statesman,' says he's not sure he wants to run for Texas governor because politics is 'a bag of rats'
+        aharoun@businessinsider.com (Azmi Haroun)
+        "It's necessary to be aggressively centric to salvage democracy in America right now," McConaughey said, stressing the need for a third party.
       </figcaption>
     </figure>
   </li>

@@ -1,5 +1,6 @@
 import React from 'react';
-import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import { render, screen, waitFor } from '@testing-library/react';
 import NewsSearchContainer from './NewSearchContainer';
 
 describe('News Search Testing', () => {
@@ -9,5 +10,20 @@ describe('News Search Testing', () => {
 
     const ul = await screen.findByRole('list', { name: 'articles' });
     expect(ul).toMatchSnapshot();
+
+    const titleInput = await screen.findByLabelText('Article Title');
+    userEvent.type(titleInput, 'Health');
+
+    const submitBtn = await screen.findByRole('button', {
+      name: 'get-articles',
+    });
+    userEvent.click(submitBtn);
+
+    return waitFor(() => {
+      const articles = screen.getAllByText('Health', {
+        exact: false,
+      });
+      expect(articles).toHaveLength(5);
+    });
   });
 });

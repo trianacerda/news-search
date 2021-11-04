@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export default function Search({ title, onTitleChange, onSubmit }) {
   return (
-    <form>
+    <form onSubmit={onSubmit}>
       <label htmlFor="title">Article Title</label>
       <input
         id="title"
