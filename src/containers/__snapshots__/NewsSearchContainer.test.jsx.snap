@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News Search Testing should display a list of articles 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <figure>
+      <figcaption>
+        Bitcoin hits strongest level since May
+        noreply@blogger.com (Unknown)
+        &lt;ul&gt;&lt;li&gt;Bitcoin, in terms of market value, rose 4.6% to $53,859.6.&lt;/li&gt;&lt;li&gt;It passed $50,000 mark for first time in four weeks on Tuesday. &lt;/li&gt;&lt;li&gt;Bitcoin fell below $50,000 in early September.&lt;/li&gt;&lt;/ul&gt;Bitcoin hit its highest level since mid-May on Wednesda…
+      </figcaption>
+    </figure>
+  </li>
+</ul>
+`;
