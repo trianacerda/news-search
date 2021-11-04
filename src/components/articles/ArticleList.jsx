@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 export default function ArticleList({ articles }) {
   const articleList = articles.map(({ title, author, description }) => (
-    <li key={`${title} by ${author}`}>
+    <li key={`${title}-${author}`}>
       <Article title={title} author={author} description={description} />
     </li>
   ));
