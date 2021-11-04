@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { fetchNewsArticles } from '../services/NewsApi';
 import ArticleList from '../components/articles/ArticleList';
+import Search from '../components/articles/Search';
 
 class NewsSearchContainer extends Component {
   state = {
@@ -18,7 +19,21 @@ class NewsSearchContainer extends Component {
     const { loading, articles, title } = this.state;
 
     return (
-      <>{loading ? <h1>Loading...</h1> : <ArticleList articles={articles} />}</>
+      <>
+        {loading ? (
+          <h1>Loading...</h1>
+        ) : (
+          <>
+            <Search
+              title={title}
+              onTitleChange={this.handleTitleChange}
+              onSubmit={this.handleSubmit}
+            />
+
+            <ArticleList articles={articles} />
+          </>
+        )}
+      </>
     );
   }
 }
