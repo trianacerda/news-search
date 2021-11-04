@@ -6,5 +6,3 @@ export const fetchNewsArticles = async () => {
   console.log('articles', articles);
   return articles.articles;
 };
-
-// https://newsapi.org/v2/everything?q=bitcoin&apiKey=fc5804d1f6664d5f9ea59ec356df8415

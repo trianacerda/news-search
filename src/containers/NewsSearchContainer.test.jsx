@@ -1,8 +1,8 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import NewsSearchContainer from './NewSearchContainer';
-import { rest } from 'msw';
-import { setupServer } from 'msw/node';
+// import { rest } from 'msw';
+// import { setupServer } from 'msw/node';
 
 describe('News Search Testing', () => {
   it('should display a list of articles', async () => {
