@@ -7,9 +7,45 @@ exports[`News Search Testing should display a list of articles 1`] = `
   <li>
     <figure>
       <figcaption>
-        Bitcoin hits strongest level since May
-        noreply@blogger.com (Unknown)
-        &lt;ul&gt;&lt;li&gt;Bitcoin, in terms of market value, rose 4.6% to $53,859.6.&lt;/li&gt;&lt;li&gt;It passed $50,000 mark for first time in four weeks on Tuesday. &lt;/li&gt;&lt;li&gt;Bitcoin fell below $50,000 in early September.&lt;/li&gt;&lt;/ul&gt;Bitcoin hit its highest level since mid-May on Wednesda…
+        Facebook sues programmer who allegedly scraped data for 178 million users
+        Jon Fingas
+        Facebook is taking legal action in response to another large-scale data heist. According to The Record, the social network has sued Ukraine national Alexander Solonchenko for allegedly scraping data for more than 178 million users. Solonchenko reportedly expl…
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <figcaption>
+        Yoko Taro Foresees the End of Video Games As We Know Them
+        Joshua Khan
+        The mind behind iconic titles like 'Nier: Automata' and 'Drakengard' tells WIRED about his inspirations—and how AI plays a role in the future of game design.
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <figcaption>
+        How Googlers are making unseen disability visible at work
+        Sneha SrinivasanProgram Manager, Google India
+        Five years ago, I discovered that I had left temporal epilepsy, a condition that causes unprovoked seizures. To manage it, I was prescribed medication. While the medication controls the brain activity, the downside was experiencing fatigue, long sleep cycles,…
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <figcaption>
+        限时优惠：亚马逊 Chromebook 特价，最低七折
+        Eric Chan
+        Chromebook 的低價、易用、快速，是不少低預算但卻又有一定要求的用戶，尤其是學生的歡迎。Lenovo 的熱門機型 Chromebook Flex 5 13 吋，在今天就來一個限時優惠！
+      </figcaption>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <figcaption>
+        Matthew McConaughey, who's called himself a 'folk singin', philosopher, poet-statesman,' says he's not sure he wants to run for Texas governor because politics is 'a bag of rats'
+        aharoun@businessinsider.com (Azmi Haroun)
+        "It's necessary to be aggressively centric to salvage democracy in America right now," McConaughey said, stressing the need for a third party.
       </figcaption>
     </figure>
   </li>

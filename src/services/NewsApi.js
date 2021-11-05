@@ -1,10 +1,8 @@
-export const fetchNewsArticles = async () => {
+export const fetchNewsArticles = async (title) => {
   const res = await fetch(
-    `https://newsapi.org/v2/everything?q=bitcoin&apiKey=${process.env.REACT_APP_API_KEY}`
+    `https://newsapi.org/v2/everything?q=${title}&apiKey=${process.env.REACT_APP_API_KEY}&pageSize=5`
   );
   const articles = await res.json();
-  console.log('articles', articles);
+  // console.log('look here', articles);
   return articles.articles;
 };
-
-// https://newsapi.org/v2/everything?q=bitcoin&apiKey=fc5804d1f6664d5f9ea59ec356df8415

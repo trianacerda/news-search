@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article test should render a single article for the list 1`] = `
+<DocumentFragment>
+  <figure>
+    <figcaption>
+      triana loves candytrianatriana goes to a candy shop
+    </figcaption>
+  </figure>
+</DocumentFragment>
+`;
